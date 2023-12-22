@@ -24,6 +24,7 @@
         "*.macasm": "hlasm",
         "*.bms": "hlasm",
         "iostream": "cpp",
-        "xlocale": "cpp"
+        "xlocale": "cpp",
+        "vector": "cpp"
     }
 }
